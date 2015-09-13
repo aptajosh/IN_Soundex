@@ -1,0 +1,24 @@
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexRun.exe.config
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexRun.exe.manifest
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexRun.application
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexRun.exe
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexRun.pdb
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexReEngineered.dll
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Release\SoundexReEngineered.pdb
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Release\SoundexRun.csprojResolveAssemblyReference.cache
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Release\SoundexRun.exe.manifest
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Release\SoundexRun.application
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Release\SoundexRun.exe
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Release\SoundexRun.pdb
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexRun.exe.config
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\obj\Release\SoundexRun.exe
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\obj\Release\SoundexRun.pdb
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexRun.exe.manifest
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexRun.application
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexRun.exe
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexRun.pdb
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexReEngineered.dll
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\bin\Release\SoundexReEngineered.pdb
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\obj\Release\SoundexRun.csprojResolveAssemblyReference.cache
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\obj\Release\SoundexRun.exe.manifest
+C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexRun\obj\Release\SoundexRun.application

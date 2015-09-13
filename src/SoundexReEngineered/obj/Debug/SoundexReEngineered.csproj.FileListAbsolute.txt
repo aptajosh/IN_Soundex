@@ -1,0 +1,5 @@
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\bin\Debug\SoundexReEngineered.dll
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\bin\Debug\SoundexReEngineered.pdb
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\obj\Debug\SoundexReEngineered.dll
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\obj\Debug\SoundexReEngineered.pdb
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\obj\Debug\SoundexReEngineered.csprojResolveAssemblyReference.cache

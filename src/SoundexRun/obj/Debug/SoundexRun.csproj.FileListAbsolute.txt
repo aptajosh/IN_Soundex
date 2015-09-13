@@ -1,0 +1,12 @@
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexRun.exe.config
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexRun.exe.manifest
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexRun.application
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexRun.exe
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexRun.pdb
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexReEngineered.dll
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\bin\Debug\SoundexReEngineered.pdb
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Debug\SoundexRun.csprojResolveAssemblyReference.cache
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Debug\SoundexRun.exe.manifest
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Debug\SoundexRun.application
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Debug\SoundexRun.exe
+J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexRun\obj\Debug\SoundexRun.pdb
