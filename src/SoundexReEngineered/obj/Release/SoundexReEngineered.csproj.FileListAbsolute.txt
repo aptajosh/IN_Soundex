@@ -1,9 +1,0 @@
-J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\bin\Release\SoundexReEngineered.dll
-J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\bin\Release\SoundexReEngineered.pdb
-J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\obj\Release\SoundexReEngineered.dll
-J:\Apps Home\Neorithm\Soundex\SoundexReEngineered\SoundexReEngineered\obj\Release\SoundexReEngineered.pdb
-C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexReEngineered\bin\Release\SoundexReEngineered.dll
-C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexReEngineered\bin\Release\SoundexReEngineered.pdb
-C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexReEngineered\obj\Release\SoundexReEngineered.csprojResolveAssemblyReference.cache
-C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexReEngineered\obj\Release\SoundexReEngineered.dll
-C:\Users\Sanket\Documents\GitHub\IN_Soundex\src\SoundexReEngineered\obj\Release\SoundexReEngineered.pdb
