@@ -28,6 +28,7 @@ namespace SoundexCore
         {
             name = name.Trim();
             name = name.ToLower();
+            name = RegexHelp.regSquare.Replace(name, RegexHelp.evalSquare);
             name = RegexHelp.regTriples.Replace(name, RegexHelp.evalTriples);
             name = RegexHelp.regDoubles.Replace(name, RegexHelp.evalDoubles);
             name = RegexHelp.regSingle.Replace(name, RegexHelp.evalSingle);
