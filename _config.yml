@@ -1,0 +1,8 @@
+title: IN_Soundex
+description: Soundex generation suitable for Indian names or pronunciations
+google_analytics: UA-67877106-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
